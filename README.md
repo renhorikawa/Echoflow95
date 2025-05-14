@@ -12,7 +12,7 @@ OSはWindowsでのみ動作確認をしています。
 #### プログラムのダウンロード
 こちらのページ上部に移動します。
 
-下の画像の赤丸部分をクリックしてZipファイルをダウンロードし、お使いのPCで解凍して下さい。
+下の画像の青丸→赤丸部分の順でクリックし、Zipファイルをダウンロードした上で、お使いのPCで解凍して下さい。
 
 ![demo1](https://github.com/renhorikawa/echoflow95/blob/master/assets/demo1.png)
 
